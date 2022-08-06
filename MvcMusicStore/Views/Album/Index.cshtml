@@ -1,0 +1,64 @@
+﻿@model IEnumerable<MvcMusicStore.Models.Album>
+@using Microsoft.AspNetCore.Http
+    @{
+        Boolean isAdmin = User.IsInRole("Administrators");
+        ViewData["Title"] = $"List of Albums for {Context.Session.GetString("artistName")}";
+    }
+
+    <h2>@ViewData["Title"]</h2>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(fred => fred.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AlbumArtUrl)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Artist)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Genre)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AlbumArtUrl)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Artist.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Genre.Name)
+                    </td>
+                    <td>
+                        @if (isAdmin)
+                        {
+                            <a asp-action="Edit" asp-route-id="@item.AlbumId">Edit</a> <text>|</text>
+                            <a asp-action="Delete" asp-route-id="@item.AlbumId">Delete</a> <text>|</text>
+                        }
+                            <a asp-action="Details" asp-route-id="@item.AlbumId">Details</a>
+                        </td>
+                </tr>
+            }
+        </tbody>
+    </table>

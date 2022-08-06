@@ -1,0 +1,17 @@
+I:\ASP.NET.MVC\Research_Localization\MvcMusicStore_Localization\DTClassLibrary\bin\Debug\netcoreapp2.2\DTClassLibrary.deps.json
+I:\ASP.NET.MVC\Research_Localization\MvcMusicStore_Localization\DTClassLibrary\bin\Debug\netcoreapp2.2\DTClassLibrary.dll
+I:\ASP.NET.MVC\Research_Localization\MvcMusicStore_Localization\DTClassLibrary\bin\Debug\netcoreapp2.2\DTClassLibrary.pdb
+I:\ASP.NET.MVC\Research_Localization\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.csprojAssemblyReference.cache
+I:\ASP.NET.MVC\Research_Localization\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.csproj.CoreCompileInputs.cache
+I:\ASP.NET.MVC\Research_Localization\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.AssemblyInfoInputs.cache
+I:\ASP.NET.MVC\Research_Localization\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.AssemblyInfo.cs
+I:\ASP.NET.MVC\Research_Localization\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.dll
+I:\ASP.NET.MVC\Research_Localization\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.pdb
+C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\DTClassLibrary\bin\Debug\netcoreapp2.2\DTClassLibrary.deps.json
+C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\DTClassLibrary\bin\Debug\netcoreapp2.2\DTClassLibrary.dll
+C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\DTClassLibrary\bin\Debug\netcoreapp2.2\DTClassLibrary.pdb
+C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.csprojAssemblyReference.cache
+C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.AssemblyInfoInputs.cache
+C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.AssemblyInfo.cs
+C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.dll
+C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.pdb

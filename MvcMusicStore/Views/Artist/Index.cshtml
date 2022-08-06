@@ -1,0 +1,61 @@
+﻿@model IEnumerable<MvcMusicStore.Models.Artist>
+@using Microsoft.AspNetCore.Mvc.Localization
+@using Microsoft.Extensions.Localization
+@using MvcMusicStore.Controllers
+@inject IViewLocalizer viewLocalizer
+@inject IHtmlLocalizer<SharedResources> htmlLocalizer
+@inject IStringLocalizer<SharedResources> stringLocalizer
+
+@{
+    ViewData["Title"] = viewLocalizer["Artists Listing"];
+}
+<h2>@ViewData["Title"].</h2>
+
+<p>IViewLocalizer: @viewLocalizer["Use this area to provide additional information."]</p>
+<p>IHtmlLocalizer: @htmlLocalizer["Use this area to provide additional information."]</p>
+<p>IStringLocalizer: @stringLocalizer["Use this area to provide additional information."]</p>
+
+<dl>
+    <dt>IStringLocalization of phrase '@ViewData["initialString"]':</dt>
+    <dd>@ViewData["Translated"]</dd>
+    <dd>Shared Controller Resource: @ViewData["SharedControllerTranslated"]</dd>
+    <dt>IHtmlLoclization of '@ViewData["initialHTML"]':</dt>
+    <dd>@ViewData["TranslatedHtml"]</dd>
+    <dt>Phrases unknown to Localization tables (added '?'):</dt>
+    <dd>@ViewData["unknownString"]</dd>
+    <dd>@ViewData["unknownHTML"]</dd>
+</dl>
+
+<p>
+    <a asp-action="Create">Create New Artist Record</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-controller="album" asp-action="index"
+                       asp-route-artistId="@item.ArtistId"
+                       asp-route-artistName="@item.Name">
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </a>
+                </td>
+                <td>
+
+                    <a asp-action="Edit" asp-route-id="@item.ArtistId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ArtistId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ArtistId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

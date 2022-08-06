@@ -1,0 +1,9 @@
+I:\ASP.NET.MVC\inClassExample\MvcMusicStore\DTClassLibrary\bin\Debug\netcoreapp2.1\DTClassLibrary.deps.json
+I:\ASP.NET.MVC\inClassExample\MvcMusicStore\DTClassLibrary\bin\Debug\netcoreapp2.1\DTClassLibrary.dll
+I:\ASP.NET.MVC\inClassExample\MvcMusicStore\DTClassLibrary\bin\Debug\netcoreapp2.1\DTClassLibrary.pdb
+I:\ASP.NET.MVC\inClassExample\MvcMusicStore\DTClassLibrary\obj\Debug\netcoreapp2.1\DTClassLibrary.csproj.CoreCompileInputs.cache
+I:\ASP.NET.MVC\inClassExample\MvcMusicStore\DTClassLibrary\obj\Debug\netcoreapp2.1\DTClassLibrary.AssemblyInfoInputs.cache
+I:\ASP.NET.MVC\inClassExample\MvcMusicStore\DTClassLibrary\obj\Debug\netcoreapp2.1\DTClassLibrary.AssemblyInfo.cs
+I:\ASP.NET.MVC\inClassExample\MvcMusicStore\DTClassLibrary\obj\Debug\netcoreapp2.1\DTClassLibrary.dll
+I:\ASP.NET.MVC\inClassExample\MvcMusicStore\DTClassLibrary\obj\Debug\netcoreapp2.1\DTClassLibrary.pdb
+I:\ASP.NET.MVC\inClassExample\MvcMusicStore\DTClassLibrary\obj\Debug\netcoreapp2.1\DTClassLibrary.csprojAssemblyReference.cache
