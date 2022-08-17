@@ -34,24 +34,26 @@
                     <li><a asp-controller="Album">Albums</a></li>
                     <li><a asp-controller="Artist" asp-action="Index">Artists</a></li>
                     <li><a asp-controller="Order" asp-action="Index">Order</a></li>
+                    <li><a asp-controller="Checkout" asp-action="Index">Checkout</a></li>
+
 
 
 
 
                     @* show User/Role Maintenance menu only if user is in Administrator role *@
                     @*@if (User.IsInRole("administrators"))
-                    {*@
-                        @**<li class="dropdown">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-                                User/Role Administration<span class="caret"></span>
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li><a asp-controller="RoleMaintenance" asp-action="Index">Manage Roles</a></li>
-                                <li><a asp-controller="User" asp-action="ResetPassword">Reset User Password</a></li>
-                            </ul>
-                        </li>*@
+        {*@
+                    @**<li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                User/Role Administration<span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+                <li><a asp-controller="RoleMaintenance" asp-action="Index">Manage Roles</a></li>
+                <li><a asp-controller="User" asp-action="ResetPassword">Reset User Password</a></li>
+            </ul>
+        </li>*@
 
-                    
+
 
                 </ul>
                 <partial name="_LoginPartial" />

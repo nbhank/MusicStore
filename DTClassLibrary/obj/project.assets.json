@@ -685,21 +685,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HankR\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\HankR\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HankR\\Desktop\\CP-All\\Web Tech\\webtech backup\\MvcMusicStore_Localization\\DTClassLibrary\\DTClassLibrary.csproj",
+      "projectUniqueName": "D:\\Repository\\MusicStore\\DTClassLibrary\\DTClassLibrary.csproj",
       "projectName": "DTClassLibrary",
-      "projectPath": "C:\\Users\\HankR\\Desktop\\CP-All\\Web Tech\\webtech backup\\MvcMusicStore_Localization\\DTClassLibrary\\DTClassLibrary.csproj",
+      "projectPath": "D:\\Repository\\MusicStore\\DTClassLibrary\\DTClassLibrary.csproj",
       "packagesPath": "C:\\Users\\HankR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HankR\\Desktop\\CP-All\\Web Tech\\webtech backup\\MvcMusicStore_Localization\\DTClassLibrary\\obj\\",
+      "outputPath": "D:\\Repository\\MusicStore\\DTClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\HankR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -713,6 +709,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {}
         }
       },
@@ -724,6 +721,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
@@ -742,7 +740,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.118\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
