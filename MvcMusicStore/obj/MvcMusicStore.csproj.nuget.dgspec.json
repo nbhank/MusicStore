@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repository\\MusicStore\\MvcMusicStore\\MvcMusicStore.csproj": {}
+    "C:\\Users\\HankR\\OneDrive\\Desktop\\MusicStore\\MvcMusicStore\\MvcMusicStore.csproj": {}
   },
   "projects": {
-    "D:\\Repository\\MusicStore\\MvcMusicStore\\MvcMusicStore.csproj": {
+    "C:\\Users\\HankR\\OneDrive\\Desktop\\MusicStore\\MvcMusicStore\\MvcMusicStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repository\\MusicStore\\MvcMusicStore\\MvcMusicStore.csproj",
+        "projectUniqueName": "C:\\Users\\HankR\\OneDrive\\Desktop\\MusicStore\\MvcMusicStore\\MvcMusicStore.csproj",
         "projectName": "MvcMusicStore",
-        "projectPath": "D:\\Repository\\MusicStore\\MvcMusicStore\\MvcMusicStore.csproj",
+        "projectPath": "C:\\Users\\HankR\\OneDrive\\Desktop\\MusicStore\\MvcMusicStore\\MvcMusicStore.csproj",
         "packagesPath": "C:\\Users\\HankR\\.nuget\\packages\\",
-        "outputPath": "D:\\Repository\\MusicStore\\MvcMusicStore\\obj\\",
+        "outputPath": "C:\\Users\\HankR\\OneDrive\\Desktop\\MusicStore\\MvcMusicStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HankR\\AppData\\Roaming\\NuGet\\NuGet.Config",

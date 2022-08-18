@@ -690,11 +690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repository\\MusicStore\\DTClassLibrary\\DTClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\HankR\\OneDrive\\Desktop\\MusicStore\\DTClassLibrary\\DTClassLibrary.csproj",
       "projectName": "DTClassLibrary",
-      "projectPath": "D:\\Repository\\MusicStore\\DTClassLibrary\\DTClassLibrary.csproj",
+      "projectPath": "C:\\Users\\HankR\\OneDrive\\Desktop\\MusicStore\\DTClassLibrary\\DTClassLibrary.csproj",
       "packagesPath": "C:\\Users\\HankR\\.nuget\\packages\\",
-      "outputPath": "D:\\Repository\\MusicStore\\DTClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\HankR\\OneDrive\\Desktop\\MusicStore\\DTClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HankR\\AppData\\Roaming\\NuGet\\NuGet.Config",
