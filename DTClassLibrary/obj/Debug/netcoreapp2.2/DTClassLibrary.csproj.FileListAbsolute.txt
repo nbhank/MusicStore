@@ -15,3 +15,12 @@ C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization
 C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.AssemblyInfo.cs
 C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.dll
 C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.pdb
+D:\Repository\MusicStore\DTClassLibrary\bin\Debug\netcoreapp2.2\DTClassLibrary.deps.json
+D:\Repository\MusicStore\DTClassLibrary\bin\Debug\netcoreapp2.2\DTClassLibrary.dll
+D:\Repository\MusicStore\DTClassLibrary\bin\Debug\netcoreapp2.2\DTClassLibrary.pdb
+D:\Repository\MusicStore\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.csprojAssemblyReference.cache
+D:\Repository\MusicStore\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.AssemblyInfoInputs.cache
+D:\Repository\MusicStore\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.AssemblyInfo.cs
+D:\Repository\MusicStore\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.csproj.CoreCompileInputs.cache
+D:\Repository\MusicStore\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.dll
+D:\Repository\MusicStore\DTClassLibrary\obj\Debug\netcoreapp2.2\DTClassLibrary.pdb

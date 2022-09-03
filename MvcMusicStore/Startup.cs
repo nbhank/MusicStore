@@ -24,6 +24,18 @@ namespace MvcMusicStore
 {
     public class Startup
     {
+        <appSettings>  
+   <add key = "webpages:Version" value="3.0.0.0"/>  
+   <add key = "webpages:Enabled" value="false"/>  
+   <add key = "PreserveLoginUrl" value="true" />  
+   <add key = "ClientValidationEnabled" value="true"/>  
+   <add key = "UnobtrusiveJavaScriptEnabled" value="true"/>  
+   <add key = "MERCHANT_KEY" value="1"/> 
+   <add key = "SALT" value="1"/> 
+   <add key = "PAYU_BASE_URL" value="https://sandboxsecure.payu.in"/>  
+   <add key = "action" value=""/>  
+   <add key = "hashSequence" value="key|id|amount|productinfo|firstname|email|udf1|udf2|udf3|udf4|udf5|udf6|udf7|udf8|udf9|udf10"/>  
+ </appSettings>  
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;

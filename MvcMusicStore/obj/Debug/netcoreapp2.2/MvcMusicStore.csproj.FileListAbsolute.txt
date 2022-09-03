@@ -156,3 +156,24 @@ C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization
 C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.csproj.CopyComplete
 C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.dll
 C:\Users\HankR\Desktop\CP-All\Web Tech\webtech backup\MvcMusicStore_Localization\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.pdb
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.csprojAssemblyReference.cache
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.Resources.Controllers.ArtistController.de-DE.resources
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.Resources.Controllers.LocalizationController.zh-CN.resources
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.Resources.Controllers.SharedResources.zh-CN.resources
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.Resources.Controllers.ArtistController.zh-CN.resources
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.Resources.Models.Artist.zh-CN.resources
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.Resources.Views.Artist.Index.de-DE.resources
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.Resources.Views.Artist.Index.zh-CN.resources
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.csproj.GenerateResource.cache
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.AssemblyInfoInputs.cache
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.AssemblyInfo.cs
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.RazorAssemblyInfo.cache
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.RazorAssemblyInfo.cs
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\de-DE\MvcMusicStore.resources.dll
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\zh-CN\MvcMusicStore.resources.dll
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.TagHelpers.input.cache
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.dll
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.pdb
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.TagHelpers.output.cache
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.RazorCoreGenerate.cache
+D:\Repository\MusicStore\MvcMusicStore\obj\Debug\netcoreapp2.2\MvcMusicStore.csproj.CoreCompileInputs.cache

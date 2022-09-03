@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1602MVDDN7SIp2FI0LiCddhlU+zLugwIWP4GXMyoGUT57qLc4Cl5JZw4CWM5cIuA4U5n7MiYApfCKjLQVqYB+Q==",
+  "dgSpecHash": "f1eIb6NBl+e4ccY9EbuHtddY/LomVMCBTwAlVqDunE2l6JUQ/hDKWjZjBjJlcrK2Zo3zf0fhUwb0oZ90uLL0Yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HankR\\OneDrive\\Desktop\\MusicStore\\DTClassLibrary\\DTClassLibrary.csproj",
+  "projectFilePath": "D:\\Repository\\MusicStore\\DTClassLibrary\\DTClassLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HankR\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\HankR\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
